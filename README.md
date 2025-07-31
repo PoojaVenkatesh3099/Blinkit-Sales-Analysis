@@ -54,3 +54,5 @@ Chart Requiremnt
 
 6. Screenshots / Demos
 https://github.com/PoojaVenkatesh3099/Blinkit-Sales-Analysis/blob/main/blinkit%20dashboard%20SS.png
+<img width="1228" height="683" alt="blinkit dashboard SS" src="https://github.com/user-attachments/assets/ec81c4fa-1d19-4ffe-9658-93ec780d4722" />
+
