@@ -2,11 +2,11 @@
    
 This dashboard presents a detailed analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. It leverages key KPIs and interactive visualizations to uncover trends, inefficiencies, and growth opportunities.
 
-3. Purpose
+2. Purpose
    
 To monitor and optimize sales operations, enhance customer experience, and ensure effective inventory management through data-driven insights.
 
-5. Tech Stack
+3. Tech Stack
    
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
@@ -15,13 +15,13 @@ The dashboard was built using the following tools and technologies:
 • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-7. Data Source
+4. Data Source
    
 Source: https://www.youtube.com/@datatutorials1
 The dataset used in this dashboard was obtained from the Data Tutorials YouTube channel and includes sales, product, and outlet information from 2011 to 2022.
 
 
-9. Features / Highlights
+5. Features / Highlights
     
 • Business Problem - To conduct a comprehensive analysis of sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPI's and visualization in Power BI.
 
