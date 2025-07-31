@@ -27,27 +27,34 @@ KPI's Requirement
  * Average rating - The average customer rating for different item sold.
 
 Chart Requiremnt 
+
  *Total sales by fat content
          objective - Analyze the impact of fat content by total sale. 
          Additional KPI Metrics - Assess how other KPI's (Average sale, Number of items, Average rating) vary with fat content.
          chart type - Donut chart.
+         
 *Total sales by Item Type
          objective - Identify the performance of different item types in terms of total sales.                                                                  
          Additional KPI Metrics - Assess how other KPI's (Average sale, Number of items, Average rating) vary with fat content.
          chart type - Bar chart.
+         
 *Fat Content by Outlet for Total Sales:
          Objective: Compare total sales across different outlets segmented by fat content.
          Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
          Chart Type: Stacked Column Chart.
+         
 *Total Sales by Outlet Establishment:
          Objective: Evaluate how the age or type of outlet establishment influences total sales.
          Chart Type: Line Chart.
+         
 *Sales by Outlet Size:
          Objective: Analyze the correlation between outlet size and total sales.
          Chart Type: Donut/ Pie Chart.
+         
 *Sales by Outlet Location:
          Objective: Assess the geographic distribution of sales across different locations.
          Chart Type: Funnel Map.
+         
 *All Metrics by Outlet Type:
          Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet            types.
          Chart Type: Matrix Card.
